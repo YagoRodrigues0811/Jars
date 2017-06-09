@@ -1,0 +1,3 @@
+The AWS SES uses the Object Properties to set the connection configuration information;
+The Properties Object uses the method put("attribute", "information") to set the information in a determined connection attribute;
+
